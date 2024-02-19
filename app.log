@@ -1,0 +1,55 @@
+2021-02-20 17:43:47,717 INFO c.m.d.DataPopMThread [main] C:\Users\vlook\Documents\MS-Local\zCSV\US Stocks by Exchange\NYSE
+2021-02-20 17:44:05,471 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] C:\Users\vlook\Documents\MS-Local\zCSV\US Stocks by Exchange\NYSE\A#AGILENT TECHNOLOGIES ORD (D).csv
+2021-02-20 17:44:06,992 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] A,D,AGILENT TECHNOLOGIES ORD,2/19/2021 12:00:00 AM,128.41,128.895,126.49,126.87,1247392
+2021-02-20 17:55:40,769 INFO c.m.d.DataPopMThread [main] C:\Users\vlook\Documents\MS-Local\zCSV\US Stocks by Exchange\NYSE
+2021-02-20 17:55:43,040 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] AAA
+2021-02-20 17:55:43,281 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] C:\Users\vlook\Documents\MS-Local\zCSV\US Stocks by Exchange\NYSE\A#AGILENT TECHNOLOGIES ORD (D).csv
+2021-02-20 17:56:05,279 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] A,D,AGILENT TECHNOLOGIES ORD,2/19/2021 12:00:00 AM,128.41,128.895,126.49,126.87,1247392
+2021-02-20 17:56:11,979 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] BBB
+2021-02-20 17:56:15,600 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] CCC
+2021-02-20 17:56:18,786 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] ggg
+2021-02-20 17:56:20,465 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] hhh
+2021-02-20 17:56:36,529 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] iii
+2021-02-20 17:56:39,225 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] jjj
+2021-02-20 17:56:41,929 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] kkk
+2021-02-20 17:56:43,579 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] mmm
+2021-02-20 17:56:46,482 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] nnn
+2021-02-20 17:59:57,944 INFO c.m.d.DataPopMThread [main] C:\Users\vlook\Documents\MS-Local\zCSV\US Stocks by Exchange\NYSE
+2021-02-20 18:00:00,574 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] AAA
+2021-02-20 18:00:00,838 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] C:\Users\vlook\Documents\MS-Local\zCSV\US Stocks by Exchange\NYSE\A#AGILENT TECHNOLOGIES ORD (D).csv
+2021-02-20 18:00:07,605 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] A,D,AGILENT TECHNOLOGIES ORD,2/19/2021 12:00:00 AM,128.41,128.895,126.49,126.87,1247392
+2021-02-20 18:00:09,685 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] BBB
+2021-02-20 18:00:10,637 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] CCC
+2021-02-20 18:00:11,687 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] ggg
+2021-02-20 18:00:13,659 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] hhh
+2021-02-20 18:00:35,137 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] iii
+2021-02-20 18:00:35,816 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] jjj
+2021-02-20 18:00:36,566 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] kkk
+2021-02-20 18:00:37,146 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] mmm
+2021-02-20 18:00:38,838 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] nnn
+2021-02-20 18:05:56,927 INFO c.m.d.DataPopMThread [main] C:\Users\vlook\Documents\MS-Local\zCSV\US Stocks by Exchange\NYSE
+2021-02-20 18:05:59,014 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] AAA
+2021-02-20 18:05:59,237 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] C:\Users\vlook\Documents\MS-Local\zCSV\US Stocks by Exchange\NYSE\A#AGILENT TECHNOLOGIES ORD (D).csv
+2021-02-20 18:06:05,389 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] A,D,AGILENT TECHNOLOGIES ORD,2/19/2021 12:00:00 AM,128.41,128.895,126.49,126.87,1247392
+2021-02-20 18:06:07,784 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] BBB
+2021-02-20 18:06:09,210 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] CCC
+2021-02-20 18:06:09,808 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] ggg
+2021-02-20 18:06:10,520 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] hhh
+2021-02-20 18:06:14,841 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] iii
+2021-02-20 18:06:15,457 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] jjj
+2021-02-20 18:06:16,239 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] kkk
+2021-02-20 18:06:17,086 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] mmm
+2021-02-20 18:08:05,696 INFO c.m.d.DataPopMThread [main] C:\Users\vlook\Documents\MS-Local\zCSV\US Stocks by Exchange\NYSE
+2021-02-20 18:08:06,936 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] AAA
+2021-02-20 18:08:07,141 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] C:\Users\vlook\Documents\MS-Local\zCSV\US Stocks by Exchange\NYSE\A#AGILENT TECHNOLOGIES ORD (D).csv
+2021-02-20 18:08:10,153 INFO c.m.d.DataPopMThread [main] C:\Users\vlook\Documents\MS-Local\zCSV\US Stocks by Exchange\NASDAQ
+2021-02-20 18:08:19,541 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] A,D,AGILENT TECHNOLOGIES ORD,2/19/2021 12:00:00 AM,128.41,128.895,126.49,126.87,1247392
+2021-02-20 18:08:21,791 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] BBB
+2021-02-20 18:08:23,050 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] CCC
+2021-02-20 18:08:23,713 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] ggg
+2021-02-20 18:08:24,818 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] hhh
+2021-02-20 18:08:28,847 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] iii
+2021-02-20 18:08:29,254 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] jjj
+2021-02-20 18:08:29,781 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] kkk
+2021-02-20 18:08:30,134 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] mmm
+2021-02-20 18:08:32,497 INFO c.m.d.DataPopMThread$DPrunnable [Thread-0] nnn
